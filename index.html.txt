@@ -1,0 +1,15 @@
+<!DocTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta mane="viewport"
+content="width=decide-width,
+initial-scale=1.0">
+    <title>Mi documento HTML</title>
+</head>
+<body>
+     <h1>hola, este es mi encabezado</h1>
+     <p>Este es mi párrafo de mi documento HTML.</p>
+     <h2>Este es mi segundo encabezado</h2>
+</body>
+</html>
