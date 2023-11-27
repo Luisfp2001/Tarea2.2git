@@ -14,5 +14,7 @@ initial-scale=1.0">
      <p>Este es mi párrafo de mi documento HTML2.</p>
      <h3>Este es mi tercer encabezado</h3>
      <p>Este es mi párrafo de mi documento HTML3.</p>
+     <h4>Este es mi cuarto encabezado</h4>
+     <p>Este es mi párrafo de mi documento4 HTML.</p>
 </body>
 </html>
